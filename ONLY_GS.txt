@@ -1,0 +1,17 @@
+﻿Assumptions File
+
+
+
+
+Several assumptions were made while coding the project:
+
+
+
+
+1. in the feature engineering, it is assumed that the machine has 4 COMPs,
+
+
+2. in the feature engineering, it is assumed that the machine can receive 5 types of errors
+
+
+3. in the feature engineering, it is assumed that the machine can receive 4 types of failure labels (classifications).
